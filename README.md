@@ -16,6 +16,8 @@ This is a project used for study purposes only • [Samir El Hassan](https://git
 
 ![image](https://user-images.githubusercontent.com/91634008/195907092-d7cf2ad1-b031-4e6c-8738-720c3d926948.png)
 
+You can check the live demo [clicking here](https://samirelhassann.github.io/react-todolist/)
+
 ## Instalation
 
 ```bash
